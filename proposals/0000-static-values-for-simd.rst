@@ -1,5 +1,4 @@
-.. proposal-number:: Leave blank. This will be filled in when the proposal is
-                     accepted.
+.. proposal-number::
 
 .. trac-ticket:: Leave blank. This will eventually be filled with the Trac
                  ticket number which will track the progress of the
@@ -10,14 +9,18 @@
 
 .. highlight:: haskell
 
-This proposal is `discussed at this pull requst <https://github.com/ghc-proposals/ghc-proposals/pull/0>`_. **After creating the pull request, edit this file again, update the number in the link, and delete this bold sentence.**
+A durable reference to this proposal can be found at
+`this repository <https://github.com/cartazio/ghc-proposals-static-values-simd/tree/static-values-for-simd>`
+
+This proposal is `discussed at this pull request <https://github.com/ghc-proposals/ghc-proposals/pull/0>`_. **After creating the pull request, edit this file again, update the number in the link, and delete this bold sentence.**
 
 .. contents::
 
-Proposal title
-==============
+Static Application for first class SIMD and Architecture Specific APIs
+=============================================
 
-Here you should write a short abstract motivating and briefly summarizing the proposed change.
+
+
 
 
 Motivation
